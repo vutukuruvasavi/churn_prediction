@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Telco Customer Churn Prediction — End-to-End MLOps Platform
 
 An end-to-end Machine Learning Operations (MLOps) project for predicting customer churn and demonstrating how an ML model can be validated, trained, tracked, quality-gated, versioned, monitored, and selectively deployed.
@@ -534,3 +535,6 @@ Additional documents are maintained in `docs/`:
 ## Final Summary
 
 This project demonstrates an MLOps lifecycle from data ingestion and validation to training, tracking, quality gates, model lifecycle decisions, inference, monitoring, and conditional deployment. The recorded integration test shows the system can process a new batch and safely reject a candidate that does not outperform the current Production model. GitHub Actions automation is integrated with a self-hosted Windows runner; unattended scheduling remains dependent on keeping that runner and its local services available.
+=======
+# churn_prediction
+>>>>>>> origin/main
